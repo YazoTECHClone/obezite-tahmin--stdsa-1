@@ -1,13 +1,8 @@
-# **Whats That Repository?**
-In that Repo, We are making our ISTDS's 2nd project.
+# Açıklama
+Bu Proje İstanbul Data Seince Academy Bize Görevlendirilen Obezite Tahmin Projesidir
+
 ---
-## **What is ISTDS?:**
-- ISTDS means Istanbul Data Science
----
-## **What is Project subject?:**
-- Machine Learning - Classification
----
-## **What We Used:**
+## **Kullandığımız Modüller:**
 - SQL: `PostgreSQL`
 - Data Science: `numpy`, `pandas`, `matplotlib` , `seaborn`
 - Model Libs: `scikit-learn`, `XGBosst`
